@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavel Shakhlovich
 ==================================
 
-I am a Pragmatic Software Engineer
+I am a Pragmatic Software Developer
 ---------------------------
 
 I like coding and learning new technologies. My main expertise is Back-End development and Cloud.
