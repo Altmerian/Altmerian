@@ -4,7 +4,7 @@ Hi 👋 My name is Pavel Shakhlovich
 Pragmatic Software Developer
 ---------------------------
 
-I like coding and learning new technologies. My main expertise is back-end web-development, Java, and Cloud.
+I like coding and learning new technologies. My main expertise is back-end web development, Java, and Cloud.
 
 * 🌍  I'm based in Tbilisi, Georgia
 * 🤝  Open to collaborating on Interesting Projects
