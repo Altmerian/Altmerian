@@ -12,7 +12,7 @@ I like coding and learning new technologies. My main expertise is back-end web d
 
 ### Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,java,py,nodejs,dotnet,spring,gcp,aws,postgres,mongodb,kubernetes,docker," />
   </a>
